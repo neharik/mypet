@@ -22,5 +22,5 @@
 
 [mywebservers:vars]
 myvar= value
-mywebpackonubuntu= nginx2
+mywebpackonubuntu= apache2
 mywebpackonredahat= httpd
